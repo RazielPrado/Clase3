@@ -6,6 +6,7 @@
 __Los hitman tambien__
 
 *letra elegante.txt*
+---
 _letra elegante otra vez.txt_
 
 > first we mine and then we craft let's minecraft
@@ -40,7 +41,7 @@ Texto con referencia. [^1]
  
 [^1]: Nota de la referencia
 
-## Encabezado {#custom-id}
+## Encabezado bonito {#1}
 
 	
 Enfermedad del papu

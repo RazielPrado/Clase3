@@ -1,12 +1,15 @@
 #La enfermedad del papu
+
 ##Hola otra vez
+
 ###Bombarden Peru
 
-**Los Titanfall 2**
+**Los Titanfall estan chidos**
+
 __Los hitman tambien__
 
 *letra elegante.txt*
----
+
 _letra elegante otra vez.txt_
 
 > first we mine and then we craft let's minecraft
@@ -15,7 +18,7 @@ _letra elegante otra vez.txt_
 1. Bombarden Durango
 2. Bombarden Jalisco
 
-`peruano.exe`
+`peruanoPremium.exe`
 
 ---
 [PapaVideo.mp4](https://www.youtube.com/watch?v=C10lTrxZ65c)

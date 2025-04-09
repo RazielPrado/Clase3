@@ -40,9 +40,9 @@ _letra elegante otra vez.txt_
 ```
 
 	
-Texto con referencia. [^1]
+Bloodborne para Pc [^1]
  
-[^1]: Nota de la referencia
+[^1]: Creanme por favor 
 
 ## Encabezado bonito {#1}
 

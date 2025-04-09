@@ -1,8 +1,8 @@
-#La enfermedad del papu
+# La enfermedad del papu
 
-##Hola otra vez
+## Hola otra vez
 
-###Bombarden Peru
+### Bombarden Peru
 
 **Los Titanfall estan chidos**
 

@@ -21,10 +21,10 @@ _letra elegante otra vez.txt_
 
 ![Alt MrCrabs](Crab.png)
 
-| Parapapam | descripcion chida |
-| ----------- | ----------- |
-| Header | titulo perron |
-| Paragraph | blabla |
+| Parapapam     | Si            |
+| ------------- | ------------- |
+| Header        | titulo perron |
+| Paragraph     | blabla        |
 
 	
 ```

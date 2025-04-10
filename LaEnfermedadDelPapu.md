@@ -1,8 +1,8 @@
-#La enfermedad del papu
+# *La enfermedad del papu
 
-##Hola otra vez
+## *Hola otra vez
 
-###Bombarden Peru
+### *Bombarden Peru
 
 **Los Titanfall estan chidos**
 
@@ -23,7 +23,7 @@ _letra elegante otra vez.txt_
 ---
 [PapaVideo.mp4](https://www.youtube.com/watch?v=C10lTrxZ65c)
 
-![Alt MrCrabs](Crab.png)
+![Alt MrKrabs](mr-krabs.png)
 
 | Parapapam     | Si            |
 | ------------- | ------------- |
@@ -58,3 +58,5 @@ Enfermedad del papu
 - [ ] Evacuar la comida
 
 😄🤡
+
+$E=mc^2$

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# *La enfermedad del papu
+# La enfermedad del papu
 
 ## *Hola otra vez
 

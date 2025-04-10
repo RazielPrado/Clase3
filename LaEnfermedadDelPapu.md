@@ -4,18 +4,6 @@
 
 ### Bombarden Peru
 
-# La enfermedad del papu
-
-## Hola otra vez
-
-### Bombarden Peru
-
-# La enfermedad del papu
-
-## Hola otra vez
-
-### Bombarden Peru
-
 **Los Titanfall estan chidos**
 
 __Los hitman tambien__

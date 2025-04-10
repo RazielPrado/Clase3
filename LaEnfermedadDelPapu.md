@@ -1,16 +1,14 @@
-<<<<<<< HEAD
-# *La enfermedad del papu
-
-## *Hola otra vez
-
-### *Bombarden Peru
-=======
 # La enfermedad del papu
 
 ## Hola otra vez
 
 ### Bombarden Peru
->>>>>>> 47d55998602348f9f2da8a9cb682227859b88b7d
+
+# La enfermedad del papu
+
+## Hola otra vez
+
+### Bombarden Peru
 
 **Los Titanfall estan chidos**
 
